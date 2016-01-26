@@ -2,4 +2,4 @@
 ## Landing Page
 Ejercicio Landing Page Bootcamp G3
 
-hola soi joakin
+'Forkear y Clonar Repositorios Remotos'
